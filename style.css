@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(190, 30, 78);
+    font-weight: 700;
+    color: white;
+    font-size: larger;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: large;
+}
+button{
+    background-color: yellow;
+    color: beige;
+    font-weight: 800;
+    
+}
